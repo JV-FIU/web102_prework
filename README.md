@@ -17,7 +17,8 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [check] 
+* [x] The navbar has links that direct users to "Stats" and "Our Games" sections.
+* [x] The "Our Games" section has a searchbar that allows users to lookup a game. 
 
 ## Video Walkthrough
 
