@@ -1,6 +1,6 @@
 # WEB102 Prework - *Sea Monster Crowdfunding Website*
 
-Submitted by: **Your Name Here**
+Submitted by: **Jorge Valdes-Santiago**
 
 **Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
@@ -41,7 +41,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright 2025 [name of copyright owner]
+    Copyright 2025 Jorge Valdes-Santiago
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
